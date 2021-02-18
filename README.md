@@ -5,3 +5,6 @@ My name is Tommy, I am an Accounting Major at Lehigh University. This page will 
 <img src="https://github.com/tph321/tph321.github.io/blob/main/pic.jpg" width="121" height="161">
 
 [My LinkedIn](www.linkedin.com/in/thomas-horgan-533530145)
+
+<iframe title="Lehigh Undergrad Enrollment " aria-label="chart" id="datawrapper-chart-3Bnv3" src="https://datawrapper.dwcdn.net/3Bnv3/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="640"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
