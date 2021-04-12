@@ -14,3 +14,8 @@ My name is Tommy, I am an Accounting Major at Lehigh University. This page will 
 ### Below is an interactive heatmap of tweets during the NCAA Basketball Tournament with marked schools remaining in the tournament that weekend. 
 
 <https://arcg.is/1nvz9O1>
+
+
+### A tableau dashboard that show the average full-wage equivalent weeks of paid leave for mothers and fathers in OECD countries.
+
+<script type='text/javascript' src='https://prod-useast-b.online.tableau.com/javascripts/api/viz_v1.js'></script><div class='tableauPlaceholder' style='width: 1000px; height: 827px;'><object class='tableauViz' width='1000' height='827' style='display:none;'><param name='host_url' value='https%3A%2F%2Fprod-useast-b.online.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='&#47;t&#47;storytellingwithdata' /><param name='name' value='ParentalLeave&#47;WeeksPaidLeave' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='showAppBanner' value='false' /></object></div>
