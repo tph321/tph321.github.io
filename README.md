@@ -8,7 +8,7 @@ My name is Tommy, I am an Accounting Major at Lehigh University. This page will 
 
 ### A Visiualization on Immigration Statistics. 
 
-<iframe title="Lawful Immigrants by Region and Country of Birth" aria-label="chart" id="datawrapper-chart-nl2eS" src="https://datawrapper.dwcdn.net/nl2eS/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="338"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+<iframe title="Lawful Immigrants by Region and Country of Birth" aria-label="chart" id="datawrapper-chart-nl2eS" src="https://datawrapper.dwcdn.net/nl2eS/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="336"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
 
