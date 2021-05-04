@@ -14,7 +14,7 @@ My name is Tommy, I am an Accounting Major at Lehigh University. This page will 
 
 ### Below is an interactive heatmap of tweets during the NCAA Basketball Tournament with marked schools remaining in the tournament that weekend. 
 
-<https://arcg.is/1nvz9O1>
+<style>.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="NCAA Basketball Tournament Sweet Sixteen Weekend" src="//lu.maps.arcgis.com/apps/Embed/index.html?webmap=b248aacd270c460fbc115a6e5ec08af6&extent=-140.8412,19.6053,-54.7084,53.7253&zoom=true&previewImage=false&scale=true&disable_scroll=true&theme=light"></iframe></div>
 
 
 ### A tableau dashboard that show the average full-wage equivalent weeks of paid leave for mothers and fathers in OECD countries.
