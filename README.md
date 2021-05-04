@@ -35,5 +35,5 @@ My name is Tommy, I am an Accounting Major at Lehigh University. This page will 
 
 ### Google Tour of Lehigh University During Covid
 
-https://poly.google.com/view/ajZlv0kSweS
+[Virtual Tour](https://poly.google.com/view/ajZlv0kSweS)
 
